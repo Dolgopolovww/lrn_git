@@ -5,3 +5,4 @@ class Bonus():
     title_bonus: str
     img: str
     text: str
+    description: str
